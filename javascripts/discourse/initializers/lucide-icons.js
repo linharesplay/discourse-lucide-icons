@@ -213,6 +213,7 @@ function initIcons(api) {
   api.replaceIcon("map-marker-alt", "lu-map-pin");
   api.replaceIcon("medal", "lu-medal");
   api.replaceIcon("microphone-slash", "lu-mic-off");
+  api.replaceIcon("microphone-bars", "lu-mic");
   api.replaceIcon("minus", "lu-minus");
   api.replaceIcon("minus-circle", "lu-circle-minus");
   api.replaceIcon("mobile-alt", "lu-smartphone");
