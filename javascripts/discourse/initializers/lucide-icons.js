@@ -364,7 +364,7 @@ function initIcons(api) {
   api.replaceIcon("discourse-sidebar", "lu-panel-left");
   api.replaceIcon("discourse-sparkles", "lu-sparkles");
   api.replaceIcon("discourse-table", "lu-table-2");
-  api.replaceIcon("discourse-text", "lu-pilcrow");
+  api.replaceIcon("discourse-text", "lu-a-large-small");
   api.replaceIcon("discourse-threads", "lu-message-square-more");
   api.replaceIcon("discourse-chat-search", "lu-message-circle-code");
   api.replaceIcon("discourse-add-translation", "lu-languages");
